@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Detective Quest é um jogo investigativo desenvolvido em linguagem C que simula a exploração de uma mansão em busca de pistas para solucionar um mistério.
+Detective Quest é um jogo investigativo desenvolvido em linguagem C/C++ que simula a exploração de uma mansão em busca de pistas para solucionar um mistério.
 
 Durante a investigação, o jogador percorre diferentes salas da mansão, coleta pistas, associa evidências a suspeitos e utiliza as informações obtidas para identificar o principal suspeito do caso.
 
@@ -66,7 +66,7 @@ Detective_Quest.exe
 
 ## Tecnologias Utilizadas
 
-- Linguagem C
+- Linguagem C/C++
 - Biblioteca stdio.h
 - Biblioteca stdlib.h
 - Biblioteca string.h
